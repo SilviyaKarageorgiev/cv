@@ -1,2 +1,2 @@
 # cv
-My very first website in HTML! 
+My first website in HTML! 
